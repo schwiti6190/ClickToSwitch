@@ -13,6 +13,9 @@
         <de>
 		<![CDATA[Click to switch]]>
 		</de>
+        <it>
+		<![CDATA[Click to switch]]>
+		</it>
     </description>
 
     <iconFilename>icon_clicktoswitch.dds</iconFilename>
@@ -45,8 +48,8 @@
 	</actions>
 
 	<l10n>	
-		<text name="CLICK_TO_SWITCH_TOGGLE_MOUSE"><de>Mauszeiger an/aus</de><en>Mouse cursor on/off</en></text>	
-        <text name="CLICK_TO_SWITCH_ENTER_VEHICLE"><de>In Fahrzeug einsteigen</de><en>Try to enter vehicle</en></text>
+		<text name="CLICK_TO_SWITCH_TOGGLE_MOUSE"><de>Mauszeiger an/aus</de><en>Mouse cursor on/off</en><it>Cursore del mouse on/off</it></text>	
+        <text name="CLICK_TO_SWITCH_ENTER_VEHICLE"><de>In Fahrzeug einsteigen</de><en>Try to enter vehicle</en><it>Entra nel veicolo</it></text>
 	</l10n>
 
 </modDesc>
